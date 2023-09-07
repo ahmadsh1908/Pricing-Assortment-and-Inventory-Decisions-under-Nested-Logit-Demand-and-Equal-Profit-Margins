@@ -1,4 +1,4 @@
-# Pricing Assortment and Inventory Decisions under Nested Logit Demand and Equal Profit-Margins
+# Pricing Assortment and Inventory Decisions under Nested Logit Demand and Equal Profit Margins
 
 In this research project conducted in collaboration with Dr. Bacel Maddah and Hussein Tarhini, we focused on the interdependent decisions related to assortment, inventory, and pricing of substitutable products. These products were differentiated by various attributes based on a nested logit consumer choice model. The study was set in a newsvendor-type scenario where multiple products competed for demand during a single selling season, all with equal profit margins.
 
