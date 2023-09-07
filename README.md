@@ -8,4 +8,4 @@ We further compared the optimal profit margin in our research to the scenario of
 
 As a culmination of our work, we proposed a heuristic approach that jointly addressed assortment, pricing, and inventory decisions. This approach assumed equal profit margins for products and leveraged popular sets exclusively. Our extensive numerical analysis demonstrated that this equal-margin heuristic consistently generated high-quality solutions.
 
-It is worth noting that our research paper was published in the IISE journal and featured in the IISE magazine for the month of May 2023. Furthermore, we were honored to be selected to present and discuss our paper at the 2023 IISE Expo.
+It is worth noting that our research paper was published in the IISE journal and featured in the IISE magazine for the month of May 2023. Furthermore, we were honored to be selected to present and discuss our paper at the 2023 IISE Conference that took place in New Orleans.
